@@ -8,5 +8,5 @@ Technology - HTML, SASS, JS (API, OOP, AJAX)
 
 
 # Instalation
-npm install
+npm install <br>
 npm start
