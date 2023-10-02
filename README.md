@@ -5,3 +5,8 @@ Recipefork is an application written in JavaScript that interacts with the API t
 Technology - HTML, SASS, JS (API, OOP, AJAX)
 
 ![image](https://github.com/nileshcode1/recipefork/assets/77544758/781c3529-48c7-4238-87fc-48f9d5d45a71)
+
+
+# Instalation
+npm install
+npm start
